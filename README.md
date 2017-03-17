@@ -57,3 +57,13 @@ cp lsocket.so ./samples
 ./lua testclt_udp.lua
 ```
 ![image](https://github.com/ThisisGame/lsocket/blob/master/lsocket-1.4.1-1/doc/testudp.png)
+
+
+- use loginserver.lua&loginclient.lua test login
+
+```
+./lua loginserver.lua
+./lua loginclient.lua
+```
+
+![image](https://github.com/ThisisGame/lsocket/blob/master/lsocket-1.4.1-1/doc/logintest.png)

@@ -42,3 +42,18 @@ cp lsocket.so ./samples
  
 ![image](https://github.com/ThisisGame/lsocket/blob/master/lsocket-1.4.1-1/doc/httpserver-server.png)
 ![image](https://github.com/ThisisGame/lsocket/blob/master/lsocket-1.4.1-1/doc/httpserver-client.png)
+
+- use testclt_tcp.lua & testsrv_tcp.lua test tcp socket
+```
+./lua testsrv_tcp.lua
+./lua testclt_tcp.lua
+```
+![image](https://github.com/ThisisGame/lsocket/blob/master/lsocket-1.4.1-1/doc/testtcp.png)
+
+
+- use testclt_udp.lua & testsrv_udp.lua test udp socket
+```
+./lua testsrv_udp.lua
+./lua testclt_udp.lua
+```
+![image](https://github.com/ThisisGame/lsocket/blob/master/lsocket-1.4.1-1/doc/testudp.png)

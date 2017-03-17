@@ -1,5 +1,5 @@
 # lsocket
-lsocket is socket support for lua.
+lsocket is socket support for lua. homepage:http://tset.de/lui/index.html
 
 # build
 
